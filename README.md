@@ -15,5 +15,7 @@ The experiments are threefold:
 
 textcnn: utilities for the notebooks
 
+#### Explanation of methodology is presented in the notebook: textcnn/Methodology_pipeline.ipynb
+
 Link of detailed report: https://github.com/stutinayak/Thesis_metadata_wizard.git
 
