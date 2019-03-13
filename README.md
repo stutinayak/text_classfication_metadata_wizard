@@ -6,7 +6,7 @@ Input dataset: NCBI disease corpus (https://www.ncbi.nlm.nih.gov/CBBresearch/Dog
 ### Prerequisites
 Jupyter Notebook, PyTorch alternatively Google Colab would suffice. 
 
-Notebooks: all the python notebooks for used in experiments.
+Notebooks: all the python notebooks for used in experiments with result files used for drawing conclusions.
 
 The experiments are threefold:
 * Predicting disease terms
